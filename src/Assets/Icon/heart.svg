@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/heart</title>
+    <defs>
+        <path d="M6.49075,3.005 C5.29775,3.005 4.24475,3.351 3.36875,4.201 C1.54375,5.97 1.54375,8.837 3.36875,10.606 C3.89075,11.112 8.94975,16.577 8.94975,16.577 C9.23875,16.858 9.61575,16.997 9.99375,16.997 C10.37175,16.997 10.74875,16.858 11.03775,16.577 C11.03775,16.577 16.57175,10.777 16.63075,10.719 C18.45675,8.949 18.45675,6.082 16.63075,4.314 C15.72475,3.436 14.71275,3 13.47775,3 C12.29875,3 10.98175,3.913 9.99975,4.883 C8.98575,3.913 7.71075,3.005 6.49075,3.005" id="path-1"></path>
+    </defs>
+    <g id="Icon/heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Path" fill="#3e7fee" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>
